@@ -1,2 +1,4 @@
 # HELLO-WORLD
-learning gi
+learning git
+
+print(" Hello python")
